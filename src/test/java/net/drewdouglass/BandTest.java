@@ -7,6 +7,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+ * @author Drew Douglass, amdouglass@dmacc.edu, 1/19/19
+ * this class tests the Band class constructors.  The test class test the banter and introduction methods from the Band class.
+ * It also has a method to test whether or not there are members in the band called testMembers.
+ *
+ */
 public class BandTest {
 
 	Band kcc ;

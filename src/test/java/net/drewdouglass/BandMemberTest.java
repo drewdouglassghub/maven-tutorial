@@ -5,9 +5,13 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * @author Drew Douglass, amdouglass@dmacc.edu, 1/19/19
+ *this class tests the BandMember class constructor and memberPay method
+ */
 public class BandMemberTest {
 
-	BandMember Drew;
+	BandMember Drew;			//create band members
 	BandMember Sam;
 	BandMember Nick;
 	
