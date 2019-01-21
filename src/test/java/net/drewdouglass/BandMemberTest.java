@@ -24,7 +24,7 @@ public class BandMemberTest {
 	
 	@Test							//test for memberPay function
 	public void testMemberPay() {
-		assertTrue(Drew.payMember(Drew.bandFee) == Drew.feePercentage * Drew.bandFee);
+		assertTrue(Drew.payMember(300.00) == Drew.feePercentage * 300);
 	}
 
 }
